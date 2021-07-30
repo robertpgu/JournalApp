@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="title_text">" Private Journal"</string>
+    <string name="subTitle">So what is new in your life?</string>
+    <string name="title">Personal Journal</string>
+    <string name="startText">Get started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">OR</string>
+    <string name="post_title" />
+    <string name="thoughts" />
+    <string name="save_button">Save</string>
+    <string name="post_hint">Title</string>
+    <string name="thoughts_hint">Your thoughts...</string>
+    <string name="menu_title">Add your thoughts</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="no_thoughts_hint">Clicl the \"+\"  sign/icon to add a Journal entry</string>
+</resources>
